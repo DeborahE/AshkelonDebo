@@ -45,4 +45,40 @@ public class TestBase
         driver.findElement(locator).sendKeys(search);
     }
 
+    public void clickOnEnglishLink() {
+        click(By.cssSelector("a#js-link-box-en"));
+    }
+
+    public void clickOnEspagnolLink() {
+        click(By.cssSelector("a#js-link-box-es"));
+    }
+
+
+    public void clickOnRussianLink() {
+        click(By.cssSelector("a#js-link-box-ru"));
+    }
+
+    public void clickOnChinsesLink() {
+        click(By.cssSelector("a#js-link-box-zh"));
+    }
+
+    public void clickOnPortuguesLink() {
+        click(By.cssSelector("a#js-link-box-pt"));
+    }
+
+    public void clickOnItalianLink() {
+        click(By.cssSelector("a#js-link-box-it"));
+    }
+
+    public void clickOnDeutchLink() {
+        click(By.cssSelector("a#js-link-box-de"));
+    }
+
+    public void clickOnJapaneseLink() {
+        click(By.cssSelector("a#js-link-box-ja"));
+    }
+
+    public void returnToPreviousPage() {
+        driver.navigate().back();
+    }
 }

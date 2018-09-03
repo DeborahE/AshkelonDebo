@@ -124,42 +124,9 @@ public class ChangeLangageTests extends TestBase {
 
 
 
-    private void clickOnEspagnolLink() {
-        click(By.cssSelector("a#js-link-box-es"));
-    }
 
 
-    private void clickOnRussianLink() {
-        click(By.cssSelector("a#js-link-box-ru"));
-    }
 
-    private void clickOnChinsesLink() {
-        click(By.cssSelector("a#js-link-box-zh"));
-    }
-
-    private void clickOnPortuguesLink() {
-        click(By.cssSelector("a#js-link-box-pt"));
-    }
-
-    private void clickOnItalianLink() {
-        click(By.cssSelector("a#js-link-box-it"));
-    }
-
-    private void clickOnDeutchLink() {
-        click(By.cssSelector("a#js-link-box-de"));
-    }
-
-    private void clickOnJapaneseLink() {
-        click(By.cssSelector("a#js-link-box-ja"));
-    }
-
-    private void returnToPreviousPage() {
-        driver.navigate().back();
-    }
-
-    private void clickOnEnglishLink() {
-        click(By.cssSelector("a#js-link-box-en"));
-    }
 
 
 }
