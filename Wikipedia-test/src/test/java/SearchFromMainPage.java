@@ -7,11 +7,11 @@ public class SearchFromMainPage extends TestBase
     @Test
     public void searchFromMainPage()
     {
-        click(By.cssSelector("input#searchInput"));
-        driver.findElement(By.cssSelector("input#searchInput")).clear();
+        app.getSessionHelper().click(By.cssSelector("input#searchInput"));
+        app.driver.findElement(By.cssSelector("input#searchInput")).clear();
         String search = "Chocolat";
-        driver.findElement(By.cssSelector("input#searchInput")).sendKeys(search);
+        app.driver.findElement(By.cssSelector("input#searchInput")).sendKeys(search);
 
-        click(By.cssSelector("button.pure-button"));
+        app.getSessionHelper().click(By.cssSelector("button.pure-button"));
     }
 }

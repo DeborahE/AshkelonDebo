@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5f85a3bc-ae9e-43c2-a479-78fbfd77a396" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/ChangeLangageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/ChangeLangageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/LeftNavMenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/LeftNavMenuTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/SearchFromLangMainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/SearchFromLangMainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/SearchFromMainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/SearchFromMainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/WikiLoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/out/test/classes/WikiLoginTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/addressBook/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressBook/build/" />
@@ -42,36 +52,36 @@
     <session id="874106319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="2" />
-          <entry key="java" value="7" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
           <entry key="gradle" value="3" />
-          <entry key="java" value="1695" />
+          <entry key="java" value="2894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="1695" />
+          <entry key="JAVA" value="2894" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -82,20 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addressBook/build.gradle">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+            <state relative-caret-position="480">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,8 +107,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,8 +131,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="126" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="1845">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,26 +169,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,19 +179,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            <state relative-caret-position="30">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wikipedia-test/build.gradle">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="615">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/WelcomeHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -521,12 +560,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/Wikipedia-test" value="6142723229000" />
+        <entry key="$PROJECT_DIR$/Wikipedia-test" value="6142991041000" />
         <entry key="$PROJECT_DIR$/Wikipedia-test/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/Wikipedia-test/build.gradle" value="2664368524" />
         <entry key="$PROJECT_DIR$/Wikipedia-test/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/Wikipedia-test/settings.gradle" value="1284330877" />
-        <entry key="$PROJECT_DIR$/addressBook" value="6142720634000" />
+        <entry key="$PROJECT_DIR$/addressBook" value="6142988438000" />
         <entry key="$PROJECT_DIR$/addressBook/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/addressBook/build.gradle" value="2664368524" />
         <entry key="$PROJECT_DIR$/addressBook/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
@@ -747,13 +786,18 @@
       <list>
         <option value="$PROJECT_DIR$/Wikipedia-test/build.gradle" />
         <option value="$PROJECT_DIR$/addressBook/build.gradle" />
-        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java" />
         <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java" />
-        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java" />
         <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/NavigateTest.java" />
-        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java" />
         <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/HelperBase.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuHelper.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/WelcomeHelper.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java" />
         <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java" />
+        <option value="$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java" />
       </list>
     </option>
   </component>
@@ -763,7 +807,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="730" />
@@ -774,9 +818,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
             <path>
               <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wikipedia-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -785,6 +846,12 @@
               <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wikipedia-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wikipedia-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="addressBook" type="b2602c69:ProjectViewProjectNode" />
@@ -803,16 +870,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535959175621" />
-    <property name="extract.method.default.visibility" value="private" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536133530879" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -823,6 +888,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Wikipedia-test" />
     </key>
@@ -839,29 +907,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LeftNavMenuTest.interactionMenuTest">
-    <configuration name="ChangeLangageTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Wikipedia-test_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ChangeLangageTests" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChangeLangageTests.openHomepageOnHebrew" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Wikipedia-test_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ChangeLangageTests" />
-      <option name="METHOD_NAME" value="openHomepageOnHebrew" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.WikiLoginTest.loginTest">
     <configuration name="LeftNavMenuTest.interactionMenuTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Wikipedia-test_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -898,20 +944,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WikiLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wikipedia-test_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WikiLoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikiLoginTest.loginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wikipedia-test_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WikiLoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.ChangeLangageTests.openHomepageOnHebrew" />
-      <item itemvalue="TestNG.ChangeLangageTests" />
       <item itemvalue="TestNG.SearchFromMainPage.searchFromMainPage" />
       <item itemvalue="TestNG.SearchFromLangMainPage.searchFromLangMainPage" />
       <item itemvalue="TestNG.LeftNavMenuTest.interactionMenuTest" />
+      <item itemvalue="TestNG.WikiLoginTest.loginTest" />
+      <item itemvalue="TestNG.WikiLoginTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LeftNavMenuTest.interactionMenuTest" />
+        <item itemvalue="TestNG.WikiLoginTest.loginTest" />
         <item itemvalue="TestNG.SearchFromLangMainPage.searchFromLangMainPage" />
+        <item itemvalue="TestNG.WikiLoginTest" />
+        <item itemvalue="TestNG.LeftNavMenuTest.interactionMenuTest" />
         <item itemvalue="TestNG.SearchFromMainPage.searchFromMainPage" />
-        <item itemvalue="TestNG.ChangeLangageTests.openHomepageOnHebrew" />
-        <item itemvalue="TestNG.ChangeLangageTests" />
       </list>
     </recent_temporary>
   </component>
@@ -927,50 +995,51 @@
       <updated>1535615017443</updated>
       <workItem from="1535615025992" duration="10030000" />
       <workItem from="1535872744794" duration="680000" />
-      <workItem from="1535886955812" duration="3459000" />
+      <workItem from="1535886955812" duration="21205000" />
+      <workItem from="1536140545153" duration="1237000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchFromLangMainPage_searchFromLangMainPage - 2018.08.30 at 15h 16m 33s.xml">
-      <configuration name="SearchFromLangMainPage.searchFromLangMainPage" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 20m 18s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 03m 11s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 21m 26s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 03m 46s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 22m 32s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 04m 08s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 35m 55s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 08m 01s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 43m 27s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 13m 58s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 45m 37s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 14m 47s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 49m 08s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 15m 35s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.03 at 14h 51m 36s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 17m 07s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.04 at 14h 32m 08s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LeftNavMenuTest_interactionMenuTest - 2018.09.02 at 15h 18m 12s.xml">
-      <configuration name="LeftNavMenuTest.interactionMenuTest" configurationId="TestNG" />
+    <history-entry file="WikiLoginTest_loginTest - 2018.09.04 at 15h 32m 12s.xml">
+      <configuration name="WikiLoginTest.loginTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14169000" />
+    <option name="totallyTimeSpent" value="33152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -979,7 +1048,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31643835" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1001,55 +1070,12 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" weight="0.32956383" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/addressBook/build.gradle">
@@ -1075,8 +1101,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1085,22 +1153,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/SearchFromLangMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/ChangeLangageTests.java">
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/WelcomeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1109,15 +1190,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/WikiLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/LeftNavMenuTest.java">
+    <entry file="file://$PROJECT_DIR$/Wikipedia-test/src/test/java/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="480">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1176,7 +1260,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>addressBook_test|addressBook</last-edited>
+          <last-edited>Wikipedia-test_test|Wikipedia-test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

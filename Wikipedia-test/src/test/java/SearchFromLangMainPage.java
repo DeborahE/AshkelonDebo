@@ -7,12 +7,12 @@ public class SearchFromLangMainPage extends TestBase
     @Test
     public void searchFromLangMainPage()
     {
-        clickOnFrenchLink();
+        app.getWelcomeHelper().clickOnFrenchLink();
         String search = "Kinder";
 
-        type( By.cssSelector("input#searchInput"), search);
+        app.getSessionHelper().type( By.cssSelector("input#searchInput"), search);
 
-        click(By.cssSelector("input#searchButton.searchButton"));
+        app.getSessionHelper().click(By.cssSelector("input#searchButton.searchButton"));
     }
 
 
